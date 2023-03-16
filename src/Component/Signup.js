@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Signup = ()=> {
+export const Signup = () => {
   return (
     <div>
       <h2>Sign Up</h2>
@@ -25,6 +25,8 @@ export const Signup = ()=> {
         </label>
         <button type="submit">Sign Up</button>
       </form>
+      <button type="submit">Already have an account? Sign in here</button>
+
     </div>
   );
 }
