@@ -1,8 +1,9 @@
 import React from "react";
 
 export const Signup = ()=> {
+
   return (
-    <div>
+    <div className="container">
       <h2>Sign Up</h2>
       <form>
         <label>
