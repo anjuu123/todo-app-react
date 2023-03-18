@@ -26,6 +26,8 @@ export const Signup = ()=> {
         </label>
         <button type="submit">Sign Up</button>
       </form>
+      <button type="submit">Already have an account? Sign in here</button>
+
     </div>
   );
 }
